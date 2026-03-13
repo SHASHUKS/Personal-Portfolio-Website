@@ -1,4 +1,0 @@
-HTML5
-Web Browser (Google Chrome / Microsoft Edge / Firefox)
-Visual Studio Code
-Live Server Extension (Optional)
